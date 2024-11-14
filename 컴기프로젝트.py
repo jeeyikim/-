@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1-SOwBNJg9nY_KNDigIQWYS3iPJv4nCZ5
 """
 
-!pip install streamlit
+# !pip install streamlit
 
-!npm install localtunnel
+# !npm install localtunnel
 
 # !streamlit run app.py &>/content/logs.txt & npx localtunnel --port 8501 & curl ipv4.icanhazip.com
 
